@@ -22,3 +22,6 @@ needs name, password in post parameter
 List : http://localhost:8080/api/users
 needs token in get parameter
 
+# Version history of the software used
+- Mongo 3.2.1
+- Node engine v0.10.33
