@@ -7,7 +7,7 @@ ExpressJS rest API demo using node, mongo, JSON web token
 - Run application using node
 
 # Tools reuired to test or to see api in action
- -postman to see api response and request in action
+ - postman to see api response and request in action
  - mongo shell to see the database's collection is being updating or inserting rows
  
 # API list
